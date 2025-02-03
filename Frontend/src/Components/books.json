@@ -1,141 +1,138 @@
-{
-    "books": [
-      {
-        "id": 1,
-        "name": "The Silent Patient",
-        "title": "Thrilling Mystery",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Atomic Habits",
-        "title": "Self Improvement Guide",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },  
-      {
-        "id": 3,
-        "name": "Rich Dad Poor Dad",
-        "title": "Finance for Everyone",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 13,
-        "name": "The 48 Laws of Power",
-        "title": "Mastering Influence",
-        "price": 16.99,
-        "category": "Self-Help",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 4,
-        "name": "The Alchemist",
-        "title": "A Journey of Dreams",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 5,
-        "name": "1984",
-        "title": "Dystopian Classic",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 6,
-        "name": "Meditations",
-        "title": "Stoic Wisdom",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 7,
-        "name": "To Kill a Mockingbird",
-        "title": "Classic Literature",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Sapiens",
-        "title": "A Brief History of Humankind",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 9,
-        "name": "The Power of Now",
-        "title": "Spiritual Enlightenment",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 10,
-        "name": "Python Crash Course",
-        "title": "Learn Python Fast",
-        "price": "$0",
-        "category": "Free",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 11,
-        "name": "The Midnight Library",
-        "title": "A Story of Second Chances",
-        "price": 10.99,
-        "category": "Fiction",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 12,
-        "name": "Dune",
-        "title": "Epic Science Fiction",
-        "price": 14.99,
-        "category": "Science Fiction",
-        "imgss":"./imgs/book.jpg"
-      },
-      {
-        "id": 14,
-        "name": "Becoming",
-        "title": "Michelle Obama's Memoir",
-        "price": 18.99,
-        "category": "Biography",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 15,
-        "name": "The Subtle Art of Not Giving a F*ck",
-        "title": "A Counterintuitive Approach to Living",
-        "price": 12.99,
-        "category": "Self-Help",
-        "imgss": "./imgs/book.jpg"
-      },
-      {
-        "id": 16,
-        "name": "Where the Crawdads Sing",
-        "title": "A Mystery Novel",
-        "price": 9.99,
-        "category": "Mystery",
-        "imgss":  "./imgs/book.jpg"
-      },
-      {
-        "id": 17,
-        "name": "The Catcher in the Rye",
-        "title": "Classic Literature",
-        "price": 8.99,
-        "category": "Classic",
-        "imgss":  "./imgs/book.jpg"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "name": "The Silent Patient",
+    "title": "Thrilling Mystery",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Atomic Habits",
+    "title": "Self Improvement Guide",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rich Dad Poor Dad",
+    "title": "Finance for Everyone",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Alchemist",
+    "title": "A Journey of Dreams",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 5,
+    "name": "1984",
+    "title": "Dystopian Classic",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Meditations",
+    "title": "Stoic Wisdom",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 7,
+    "name": "To Kill a Mockingbird",
+    "title": "Classic Literature",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sapiens",
+    "title": "A Brief History of Humankind",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Power of Now",
+    "title": "Spiritual Enlightenment",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Python Crash Course",
+    "title": "Learn Python Fast",
+    "price": "0",
+    "category": "Free",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 11,
+    "name": "The Midnight Library",
+    "title": "A Story of Second Chances",
+    "price": 10.99,
+    "category": "Fiction",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dune",
+    "title": "Epic Science Fiction",
+    "price": 14.99,
+    "category": "Science Fiction",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 13,
+    "name": "The 48 Laws of Power",
+    "title": "Mastering Influence",
+    "price": 16.99,
+    "category": "Self-Help",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Becoming",
+    "title": "Michelle Obama's Memoir",
+    "price": 18.99,
+    "category": "Biography",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 15,
+    "name": "The Subtle Art of Not Giving a F*ck",
+    "title": "A Counterintuitive Approach to Living",
+    "price": 12.99,
+    "category": "Self-Help",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Where the Crawdads Sing",
+    "title": "A Mystery Novel",
+    "price": 9.99,
+    "category": "Mystery",
+    "imgss": "./imgs/book.jpg"
+  },
+  {
+    "id": 17,
+    "name": "The Catcher in the Rye",
+    "title": "Classic Literature",
+    "price": 8.99,
+    "category": "Classic",
+    "imgss": "./imgs/book.jpg"
   }
-  
+]
